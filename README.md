@@ -1,4 +1,4 @@
-Bank Account Simulation | Python, Tkinter
+**Bank Account Simulation | Python, Tkinter**
 
 •This is a simple GUI-based application that is very easy to understand and use.
 •It uses the Tkinter module for the GUI. Talking about the application, the user can simply create their account and login in order to manage their bank accounts.
